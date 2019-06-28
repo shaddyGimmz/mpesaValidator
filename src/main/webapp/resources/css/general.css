@@ -1,0 +1,22 @@
+.container-fluid{
+      padding: 20px 10px;
+	  
+  }
+  .panel {
+      border: 0px solid #2e4053; 
+      border-radius:0 ;
+	 
+  }
+ 
+  .btn-default{
+  background-color:#34495e;
+  color: #ecf0f1;
+  }
+  .panel-heading{
+  color: #fff !important;
+      background-color: #34495e !important;
+  }
+  .panel-footer{
+  background-color:#2e4053;
+  color:#ecf0f1;
+  }
